@@ -11,8 +11,9 @@ This analysis identifies how many employees are of retirement age and which empl
 summary text.
 
 ##### Impacted Roles
-There are 7 roles that will be impacted by the expected retirements. The largest impact will be to the Senior Engineer and Senior Staff roles.<br/>
+There are 7 roles that will be impacted by the expected retirements. The largest impact will be to the Senior Engineer and Senior Staff roles.<br/><br/>
 <img src="https://github.com/xJeris/BC-Pewlett-Hackard-Analysis/blob/main/Images/retiring_count.png" />
 
 ##### Mentorship
-The employees currently eligible for the mentorship program will not be enough to mentor the needed number of replacement employees. As an example, each of the Senior Engineer mentors would need to mentor more than 153 employees over the next 10 years to fill all of the retirements. This doesn't account for any additional retirements in that time period.<br/>
+The employees currently eligible for the mentorship program will not be enough to mentor the needed number of replacement employees. As an example, each of the Senior Engineer mentors would need to mentor more than 153 employees over the next 10 years to fill all of the retirements. This doesn't account for any additional retirements in that time period.<br/><br/>
+<img src="https://github.com/xJeris/BC-Pewlett-Hackard-Analysis/blob/main/Images/mentor_count.png" />
