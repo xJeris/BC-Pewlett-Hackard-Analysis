@@ -6,11 +6,16 @@ This analysis identifies how many employees are of retirement age and which empl
 ### Results
 
 * There are a total of 72,458 people eligible to retire.
-* There are 7 different titles associated with the retirement age employees.
-* ?
 * There are 1,549 employees eligible for the mentorship program.
 
 ### Summary
 
 2 questions
 2 additional tables or queries
+
+
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+There are 7 roles that will be impacted by the expected retirements. 
+
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
